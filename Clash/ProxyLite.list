@@ -1,6 +1,23 @@
 # 代理列表
 
 # MyList && Other
+
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,repo.jellyfin.org
+DOMAIN-SUFFIX,jellyfin.org
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,media-amazon.com
+DOMAIN-SUFFIX,www.imdb.com
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,zap2it.com
+DOMAIN-SUFFIX,bootstrapcdn.com
+DOMAIN-SUFFIX,tmsimg.com
+DOMAIN-SUFFIX,api.themoviedb.org
+DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,bit.no.com
