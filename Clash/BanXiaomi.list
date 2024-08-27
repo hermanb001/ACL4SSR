@@ -1,6 +1,6 @@
 # Xiaomi Ad block
-# https://raw.githubusercontent.com/gtang8/ACL4SSR/master/Clash/BanXiaomi.list
-# https://github.com/gtang8/ACL4SSR/tree/master/Clash
+# https://raw.githubusercontent.com/hermanb001/ACL4SSR/master/Clash/BanXiaomi.list
+# https://github.com/hermanb001/ACL4SSR/tree/master/Clash
 
 DOMAIN-SUFFIX,gvod.aiseejapp.atianqi.com
 DOMAIN-SUFFIX,stat.pandora.xiaomi.com
